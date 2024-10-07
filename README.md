@@ -7,6 +7,7 @@ Eyeボーン及びHumanoidアバターでのみ動作します。
 - VRChat SDK - Avatars 3.7.0 以上
 - lilToon 1.7.3 以上
 - Modular Avatar 1.10.3 以上
+
 その他依存関係のパッケージ
 
 ## 動作確認済みアバター
